@@ -1,0 +1,335 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Marigold\n"
+"POT-Creation-Date: 2017-03-29 22:16+0700\n"
+"PO-Revision-Date: 2017-03-29 22:16+0700\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: _e;__\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: 404.php:9
+msgid "The page you are looking for has not been found."
+msgstr ""
+
+#: archive.php:10
+msgid "<span>Daily Archives</span>"
+msgstr ""
+
+#: archive.php:11 archive.php:15 archive.php:19
+#, php-format
+msgid "<h1>%s</h1>"
+msgstr ""
+
+#: archive.php:14
+msgid "<span>Monthly Archives</span>"
+msgstr ""
+
+#: archive.php:18
+msgid "<span>Yearly Archives</span>"
+msgstr ""
+
+#: archive.php:22
+msgid "<h1>Archives</h1>"
+msgstr ""
+
+#: author.php:8
+msgid "All Posts By"
+msgstr ""
+
+#: category.php:8
+msgid "Browsing Category"
+msgstr ""
+
+#: category.php:9 search.php:9 tag.php:9
+#, php-format
+msgid "%s"
+msgstr ""
+
+#: comments.php:5
+msgid "No Comments"
+msgstr ""
+
+#: comments.php:5
+msgid "1 Comment"
+msgstr ""
+
+#: comments.php:5
+msgid "Comments"
+msgstr ""
+
+#: comments.php:30
+msgid "Leave a Reply"
+msgstr ""
+
+#: comments.php:31
+msgid "Cancel Reply"
+msgstr ""
+
+#: comments.php:32
+msgid "Post Comment"
+msgstr ""
+
+#: content-page.php:12 content.php:86 content.php:97
+msgid "<span class=\"more-button\">Continue Reading</span>"
+msgstr ""
+
+#: content-page.php:24 content.php:122
+msgid "Facebook"
+msgstr ""
+
+#: content-page.php:25 content.php:123
+msgid "Twitter"
+msgstr ""
+
+#: content-page.php:27 content.php:125
+msgid "Pinterest"
+msgstr ""
+
+#: content-page.php:28 content.php:126
+msgid "Google+"
+msgstr ""
+
+#: content.php:93
+msgid "Continue Reading"
+msgstr ""
+
+#: functions.php:87
+msgid "Widget area for blog pages."
+msgstr ""
+
+#: functions.php:96
+msgid ""
+"Use the Instagram widget here. IMPORTANT: For best result select \"Large\" "
+"under \"Photo Size\" and set number of photos to 6."
+msgstr ""
+
+#: functions.php:171
+msgid "Reply"
+msgstr ""
+
+#: functions.php:172
+msgid "Edit"
+msgstr ""
+
+#: functions.php:175
+#, php-format
+msgid "%1$s at %2$s"
+msgstr ""
+
+#: functions.php:177
+msgid "Comment awaiting approval"
+msgstr ""
+
+#: functions.php:201
+msgid "<i class=\"mf-double-left\"></i> Older Posts"
+msgstr ""
+
+#: functions.php:202
+msgid "Newer Posts <i class=\"mf-double-right\"></i>"
+msgstr ""
+
+#: functions.php:258 functions.php:261 functions.php:271 functions.php:274
+#, php-format
+msgid "View all posts in %s"
+msgstr ""
+
+#: functions.php:306
+#, php-format
+msgid "Page %s"
+msgstr ""
+
+#: inc/customizer/controller.php:46
+msgid "&mdash; Select &mdash;"
+msgstr ""
+
+#: inc/metabox/site-layout.php:17
+msgid "Post Layout"
+msgstr ""
+
+#: inc/metabox/site-layout.php:25
+msgid "Page Layout"
+msgstr ""
+
+#: inc/metabox/site-layout.php:44
+msgid "Template"
+msgstr ""
+
+#: inc/template/featured.php:21
+msgid "Read More"
+msgstr ""
+
+#: inc/template/related.php:24
+msgid "You Might Also Like"
+msgstr ""
+
+#: inc/welcome-screen/custom-recommend-action-section.php:108
+#: inc/welcome-screen/sections/actions-required.php:41
+#: inc/welcome-screen/sections/recommended-plugins.php:24
+msgid "Install"
+msgstr ""
+
+#: inc/welcome-screen/custom-recommend-action-section.php:112
+#: inc/welcome-screen/sections/actions-required.php:45
+#: inc/welcome-screen/sections/recommended-plugins.php:28
+msgid "Activate"
+msgstr ""
+
+#: inc/welcome-screen/custom-recommend-action-section.php:116
+#: inc/welcome-screen/sections/actions-required.php:49
+#: inc/welcome-screen/sections/recommended-plugins.php:32
+msgid "Deactivate"
+msgstr ""
+
+#: inc/welcome-screen/notify-system-checks.php:154
+#: inc/welcome-screen/notify-system-checks.php:162
+msgid "Install: Widget Importer Exporter Plugin"
+msgstr ""
+
+#: inc/welcome-screen/notify-system-checks.php:159
+msgid "Activate: Widget Importer Exporter Plugin"
+msgstr ""
+
+#: inc/welcome-screen/notify-system-checks.php:168
+#: inc/welcome-screen/notify-system-checks.php:176
+msgid "Install: WordPress Importer"
+msgstr ""
+
+#: inc/welcome-screen/notify-system-checks.php:173
+msgid "Activate: WordPress Importer"
+msgstr ""
+
+#: inc/welcome-screen/notify-system-checks.php:185
+#: inc/welcome-screen/notify-system-checks.php:193
+msgid "Please install the WordPress Importer to create the demo content."
+msgstr ""
+
+#: inc/welcome-screen/notify-system-checks.php:190
+msgid "Please activate the WordPress Importer to create the demo content."
+msgstr ""
+
+#: inc/welcome-screen/notify-system-checks.php:199
+#: inc/welcome-screen/notify-system-checks.php:207
+msgid "Please install the WordPress widget importer to create the demo content"
+msgstr ""
+
+#: inc/welcome-screen/notify-system-checks.php:204
+msgid ""
+"Please activate the WordPress Widget Importer to create the demo content."
+msgstr ""
+
+#: inc/welcome-screen/sections/actions-required.php:80
+#: inc/welcome-screen/welcome-screen.php:149
+msgid "Hooray! There are no required actions for you right now."
+msgstr ""
+
+#: inc/welcome-screen/sections/recommended-plugins.php:39
+msgid "Version:"
+msgstr ""
+
+#: inc/welcome-screen/welcome-page-setup.php:78
+msgid "Posts"
+msgstr ""
+
+#: inc/welcome-screen/welcome-page-setup.php:79
+msgid "Widgets"
+msgstr ""
+
+#: inc/welcome-screen/welcome-page-setup.php:85
+msgid "Import Posts"
+msgstr ""
+
+#: inc/welcome-screen/welcome-page-setup.php:86
+msgid "Import Widgets"
+msgstr ""
+
+#: inc/welcome-screen/welcome-screen.php:130
+msgid "Get started with"
+msgstr ""
+
+#: inc/welcome-screen/welcome-screen.php:168
+msgid "View Theme Info"
+msgstr ""
+
+#: inc/welcome-screen/welcome-screen.php:366
+msgid "Welcome to "
+msgstr ""
+
+#: inc/welcome-screen/welcome-screen.php:366
+msgid " ! - Version "
+msgstr ""
+
+#: inc/widget/about.php:20
+msgid ": About Me"
+msgstr ""
+
+#: inc/widget/about.php:22
+msgid "Widget to display your About Page"
+msgstr ""
+
+#: inc/widget/banner.php:20
+msgid ": Banner (Image with Link)"
+msgstr ""
+
+#: inc/widget/banner.php:22
+msgid "Widget to display your Banner"
+msgstr ""
+
+#: inc/widget/facebook.php:20
+msgid ": Facebook Like Box"
+msgstr ""
+
+#: inc/widget/facebook.php:22
+msgid "Widget to display a Facebook Like Box"
+msgstr ""
+
+#: inc/widget/latest_post.php:20
+msgid ": Latest Post"
+msgstr ""
+
+#: inc/widget/latest_post.php:22
+msgid "Widget to display your latest posts from all categories or certain"
+msgstr ""
+
+#: inc/widget/latest_post.php:102
+msgid "Latest Posts"
+msgstr ""
+
+#: inc/widget/latest_post.php:107
+msgid "Title:"
+msgstr ""
+
+#: inc/widget/latest_post.php:125
+msgid "Number of posts to show:"
+msgstr ""
+
+#: inc/widget/social.php:20
+msgid ": Social Link"
+msgstr ""
+
+#: inc/widget/social.php:22
+msgid "Widget to display your social network link"
+msgstr ""
+
+#: search.php:8
+msgid "Search results for"
+msgstr ""
+
+#: search.php:59
+msgid "Sorry, no posts were found. Try searching for something else."
+msgstr ""
+
+#: searchform.php:2
+msgid "Search and hit enter..."
+msgstr ""
+
+#: tag.php:8
+msgid "Browsing Tag"
+msgstr ""
