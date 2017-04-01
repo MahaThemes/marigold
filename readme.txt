@@ -33,4 +33,4 @@ For detailed instruction please visit https://mahathemes.com/documentation-marig
 Theme documentation is available on https://mahathemes.com/documentation-marigold/
 
 == Changelog ==
-Theme changelog is available on https://mahathemes.com/documentation-marigold/
+Theme changelog is available on https://mahathemes.com/changelog-marigold/
