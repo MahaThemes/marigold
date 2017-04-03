@@ -25,11 +25,10 @@ Marigold is simply stylish & authentic WordPress blog theme with lots of feature
 * Featured slider
 * The GPL v2.0 or later license. :) Use it to make something cool.
 
-== Installation ==
-For detailed instruction please visit https://mahathemes.com/documentation-marigold/
+== Forum ==
+If you have any questions, leave a messege here https://mahathemes.com/forums/forum/marigold/
 
 == Documentation ==
-
 Theme documentation is available on https://mahathemes.com/documentation-marigold/
 
 == Changelog ==

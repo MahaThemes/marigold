@@ -4,10 +4,10 @@
 	<div class="col">
 		<h3><i class="dashicons dashicons-sos"></i><?php esc_html_e( 'Support Forums', 'marigold' ); ?></h3>
 		<p>
-			<?php esc_html_e( 'We offer friendly support through our advanced forums system. Make sure to register your purchase before contacting support!', 'marigold' ) ?>
+			<?php esc_html_e( 'We offer friendly support through our advanced forums system. feel free to leave a message on our forum!', 'marigold' ) ?>
 		</p>
 		<p><a target="_blank"  class="button button-primary"
-		      href="<?php echo esc_url( 'https://mahathemes.com/forums/' ); ?>"><?php esc_html_e( 'Go to Support Forums', 'marigold' ); ?></a>
+		      href="<?php echo esc_url( 'https://mahathemes.com/forums/forum/marigold/' ); ?>"><?php esc_html_e( 'Go to Support Forums', 'marigold' ); ?></a>
 		</p>
 	</div><!--/.col-->
 
